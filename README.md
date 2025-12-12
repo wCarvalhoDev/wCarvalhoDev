@@ -27,7 +27,7 @@ Possuo 1 ano de experiência com Java, concluí o curso do **Nélio Alves** e es
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👾 Linguagens e Tecnologias
 
 <img 
     align="left" 
